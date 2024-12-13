@@ -21,6 +21,7 @@ El propósito del proyecto es identificar segmentos de clientes con comportamien
 2. Visualización de los datos mediante histogramas y boxplots.
 3. Escalado de las variables usando StandardScaler.
 4. Manejo de datos faltantes.
+5. Reducción de la dimensionalidad con PCA.
 
 **Algoritmos de clustering:**
 1. K-means

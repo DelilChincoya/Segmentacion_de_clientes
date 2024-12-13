@@ -1,6 +1,6 @@
 # Segmentacion de Usuarios de Tarjetas de Crédito
 
-![resumen de resultados](https://github.com/DelilChincoya/Segmentacion_de_clientes/blob/main/Imagenes/hierarchical_3_clusters_dark_spider_plot_300_resumen.png)
+![resumen de resultados](https://github.com/DelilChincoya/Segmentacion_de_clientes/blob/main/Imagenes/hierarchical_3_clusters_dark_spider_plot_300_resumen2.png)
 
 En este proyecto se realiza la segmentación de clientes con base en sus patrones de comportamiento de uso de tarjetas de crédito. La segmentación se realizó utilizando tres algoritmos distintos, y los resultados fueron analizados a través de gráficos interactivos y visualizaciones estáticas.
 

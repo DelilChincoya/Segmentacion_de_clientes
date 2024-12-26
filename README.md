@@ -1,11 +1,11 @@
 # Segmentacion de Usuarios de Tarjetas de Crédito
 
-![resumen de resultados](https://github.com/DelilChincoya/Segmentacion_de_clientes/blob/main/Imagenes/hierarchical_3_clusters_dark_spider_plot_300_resumen2.png)
+![resumen de resultados](https://github.com/DelilChincoya/Segmentacion_de_clientes/blob/main/Imagenes/Segmentacion_resumen.png)
 
-En este proyecto se realiza la segmentación de clientes con base en sus patrones de comportamiento de uso de tarjetas de crédito. La segmentación se realizó utilizando tres algoritmos distintos, y los resultados fueron analizados a través de gráficos interactivos y visualizaciones estáticas.
+En este proyecto se realiza la segmentación de clientes con base en sus patrones de comportamiento de uso de tarjetas de crédito. La segmentación se realizó utilizando tres algoritmos distintos, y los resultados fueron analizados gráficamente.
 
 ## Conjunto de datos
-El conjunto de datos utilizado está disponible en [Kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata). Contiene información de clientes de tarjetas de crédito, incluyendo 17 variables que reflejan diferentes aspectos del comportamiento financiero, como:
+El conjunto de datos utilizado contiene información de clientes de tarjetas de crédito y está disponible en [Kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata).El conjunto de datos está compuesto por 17 variables que reflejan diferentes aspectos del comportamiento financiero, como:
 
 **PURCHASES:** Total de compras realizadas.  
 **CREDIT_LIMIT:** Límite de crédito del cliente.  
